@@ -1,0 +1,50 @@
+body{
+  background-image: url(background.png) ;
+  background-size: cover;
+}
+h1{
+  font-family:'Modern Antiqua', cursive;
+  color: olivedrab;
+  text-align: center;
+  font-size: 260%;
+}
+u{
+  color: olivedrab;
+}
+h2{
+  text-align: center;
+  font-size: 170%;
+  color: beige;
+}
+p{
+  color: white;
+  text-align: center ;
+  font-size: larger;
+}
+div{
+  width: 280px;
+  height:150px
+}
+#web{
+  margin-left: 250px;
+  margin-top: 90px;
+}
+#hr{
+  float: right;
+  margin-top: -178px;
+  margin-right:230px ;
+}
+#pr{
+  margin-top: 60px;
+  margin-left:573px;
+}
+#creative{
+  margin-top: 85px;
+  margin-left:250px;
+}
+#em{
+  float: right;
+  margin-top: -178px;
+  margin-right: 231px;
+}
+
